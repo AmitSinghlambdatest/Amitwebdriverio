@@ -57,6 +57,64 @@ exports.config = {
       name: "Test webdriverio",
       },
 
+     {
+      platform: "Android",
+      platformVersion: "8",
+      deviceName: "Galaxy S7",
+      resolution: "1920x1080",
+      appium_version: "1.17.0",
+      timezone: "UTC-07:00",
+      browserName:"Chrome",
+      name: "Test webdriverio",
+      },
+    
+    
+     {
+      platform: "Android",
+      platformVersion: "8",
+      deviceName: "Galaxy S7",
+      resolution: "1920x1080",
+      appium_version: "1.17.0",
+      timezone: "UTC-07:00",
+      browserName:"Chrome",
+      name: "Test webdriverio",
+      },
+    
+     {
+      platform: "Android",
+      platformVersion: "8",
+      deviceName: "Galaxy S7",
+      resolution: "1920x1080",
+      appium_version: "1.17.0",
+      timezone: "UTC-07:00",
+      browserName:"Chrome",
+      name: "Test webdriverio",
+      },
+    
+    
+     {
+      platform: "Android",
+      platformVersion: "8",
+      deviceName: "Galaxy S7",
+      resolution: "1920x1080",
+      appium_version: "1.17.0",
+      timezone: "UTC-07:00",
+      browserName:"Chrome",
+      name: "Test webdriverio",
+      },
+    
+     {
+      platform: "Android",
+      platformVersion: "8",
+      deviceName: "Galaxy S7",
+      resolution: "1920x1080",
+      appium_version: "1.17.0",
+      timezone: "UTC-07:00",
+      browserName:"Chrome",
+      name: "Test webdriverio",
+      },
+    
+    
       {
         platform: "Android",
         platformVersion: "8",
@@ -78,14 +136,83 @@ exports.config = {
           browserName:"Chrome",
           name: "Test webdriverio",
           },
+    
+      {
+          platform: "iOS",
+          platformVersion: "13.6",
+          deviceName: "iPhone 11",
+          resolution: "1920x1080",
+          appium_version: "1.17.0",
+          timezone: "UTC-07:00",
+          browserName:"Chrome",
+          name: "Test webdriverio",
+          },
 
-
+{
+          platform: "iOS",
+          platformVersion: "13.6",
+          deviceName: "iPhone 11",
+          resolution: "1920x1080",
+          appium_version: "1.17.0",
+          timezone: "UTC-07:00",
+          browserName:"Chrome",
+          name: "Test webdriverio",
+          },
+    
+    {
+          platform: "iOS",
+          platformVersion: "13.6",
+          deviceName: "iPhone 7",
+          resolution: "1920x1080",
+          appium_version: "1.17.0",
+          timezone: "UTC-07:00",
+          browserName:"Chrome",
+          name: "Test webdriverio",
+          },
+    
+    {
+          platform: "iOS",
+          platformVersion: "13.6",
+          deviceName: "iPhone 11",
+          resolution: "1920x1080",
+          appium_version: "1.17.0",
+          timezone: "UTC-07:00",
+          browserName:"Chrome",
+          name: "Test webdriverio",
+          },
+    
+    
+    
     {
       platform: "win10",
       browserName: "internet explorer",
       version: "11.0"
-    }
+    },
+    
+       {
+      platform: "win10",
+      browserName: "internet explorer",
+      version: "11.0"
+    },
 
+      {
+      platform: "win10",
+      browserName: "internet explorer",
+      version: "11.0"
+    },
+    
+       {
+      platform: "win10",
+      browserName: "internet explorer",
+      version: "11.0"
+    },
+    
+       {
+      platform: "win10",
+      browserName: "internet explorer",
+      version: "11.0"
+    },
+    
 
   ],
 
