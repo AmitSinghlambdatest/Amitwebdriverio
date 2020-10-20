@@ -144,7 +144,7 @@ exports.config = {
           resolution: "1920x1080",
           appium_version: "1.17.0",
           timezone: "UTC-07:00",
-          browserName:"Chrome",
+          browserName:"Safari",
           name: "Test webdriverio",
           },
 
@@ -155,7 +155,7 @@ exports.config = {
           resolution: "1920x1080",
           appium_version: "1.17.0",
           timezone: "UTC-07:00",
-          browserName:"Chrome",
+          browserName:"Safari",
           name: "Test webdriverio",
           },
     
@@ -166,7 +166,7 @@ exports.config = {
           resolution: "1920x1080",
           appium_version: "1.17.0",
           timezone: "UTC-07:00",
-          browserName:"Chrome",
+          browserName:"Safari",
           name: "Test webdriverio",
           },
     
@@ -177,7 +177,7 @@ exports.config = {
           resolution: "1920x1080",
           appium_version: "1.17.0",
           timezone: "UTC-07:00",
-          browserName:"Chrome",
+          browserName:"Safari",
           name: "Test webdriverio",
           },
     
